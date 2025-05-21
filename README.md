@@ -20,7 +20,7 @@
 
 ---
 ### :mortar_board: Certificates :
-
+- ```AWS``` Certified Cloud Practitioner: https://cp.certmetrics.com/amazon/en/public/verify/credential/54e3a088e21746778612ad883f954e3c 
 - ```EF SET``` EF SET English Certificate 69/100 (C1 Advanced): 
 https://www.efset.org/cert/X3o5Eg
 - ```Coderhouse``` Coderhouse: [JavaScript](https://www.coderhouse.cl/certificados/6224fb1f490bb200255bde1f), [Metodologías Ágiles](https://www.coderhouse.cl/certificados/622bd9ee587734009e29ecc4), [Desarrollo Web](https://www.coderhouse.cl/certificados/62434944ed273f001998f26b)
